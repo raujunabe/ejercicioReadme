@@ -2,7 +2,9 @@
 
 ### INICIAR GIT
 
->git init
+```
+git init
+´´´
 
 Debemos utilizarlo dentro del directorio que va a contener el repositorio de git.
 
